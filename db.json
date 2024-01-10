@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": "ccf8537a-eb25-4ac4-8fa7-513aaa045492",
+      "title": "Minha Nova Tarefa",
+      "description": "Descrição da tarefa",
+      "completed_at": null,
+      "created_at": "2024-01-03T00:17:05.348Z",
+      "updated_at": "2024-01-03T00:17:05.348Z"
+    },
+    {
+      "id": "06c762ba-7961-4dc0-87ee-f99054a0a4b6",
+      "title": "Minha segunda Tarefa",
+      "description": "Descrição da tarefa",
+      "completed_at": null,
+      "created_at": "2024-01-03T00:17:45.677Z",
+      "updated_at": "2024-01-03T00:17:45.677Z"
+    },
+    {
+      "id": "7875b088-b5e6-4b71-b3b1-236e44481378",
+      "title": "Task 1",
+      "description": "Description 1",
+      "completed_at": null,
+      "created_at": "2024-01-10T14:38:57.604Z",
+      "updated_at": "2024-01-10T14:38:57.604Z"
+    },
+    {
+      "id": "762d7b2e-1459-4ba0-bbb6-fb0d8f582966",
+      "title": "Task 2",
+      "description": "Description 2",
+      "completed_at": null,
+      "created_at": "2024-01-10T14:38:57.612Z",
+      "updated_at": "2024-01-10T14:38:57.612Z"
+    },
+    {
+      "id": "8ebc7c3d-558a-43c7-b18b-804c4582f1c0",
+      "title": "Task 3",
+      "description": "Description 3",
+      "completed_at": null,
+      "created_at": "2024-01-10T14:42:19.838Z",
+      "updated_at": "2024-01-10T14:42:19.838Z"
+    },
+    {
+      "id": "1662c1bb-a1d0-47b7-9f69-f39ba2081e30",
+      "title": "Task 3",
+      "description": "Description 3",
+      "completed_at": null,
+      "created_at": "2024-01-10T14:42:19.843Z",
+      "updated_at": "2024-01-10T14:42:19.843Z"
+    }
+  ]
+}

@@ -5,8 +5,15 @@
   "description": "��#\u0000 \u0000t\u0000a\u0000s\u0000k\u0000m\u0000a\u0000n\u0000a\u0000g\u0000e\u0000r\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch src/server.js"  },
+    "dev": "node --watch src/server.js"
+  },
   "keywords": [],
   "author": "helgannick",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^3.3.2"
+  }
 }
